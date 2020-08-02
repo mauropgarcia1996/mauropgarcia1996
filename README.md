@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [jugAR](https://gitlab.com/mg-personal/boilerplates/jugar-app)
 
-- 🔭 And this is my side side project on [jobber](https://gitlab.com/mg-personal/jobber-webapp)
+- 🔭 And this is my side side project ---> [jobber](https://gitlab.com/mg-personal/jobber-webapp)
 
 - 🌱 I’m currently learning **more about React deeply and mobile development.**
 
