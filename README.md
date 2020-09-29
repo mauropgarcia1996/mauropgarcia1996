@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mauro!</h1>
 <h3 align="center">A passionate software developer borned in Argentina.</h3>
 
-- 🔭 I’m currently working on [jugAR](https://gitlab.com/mg-personal/boilerplates/jugar-app)
+- 🔭 I’m currently working on [ETIONIC](https://etionic.com)
 
 - 🔭 And this is my side side project ---> [jobber](https://gitlab.com/mg-personal/jobber-webapp)
 
-- 🌱 I’m currently learning **more about React deeply and mobile development.**
+- 🌱 I’m currently learning **more about computer science and mobile development.**
 
 - 👨‍💻 All of my projects are available at [https://gitlab.com/mg-personal](https://gitlab.com/mg-personal)
 
