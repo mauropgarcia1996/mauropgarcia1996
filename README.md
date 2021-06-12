@@ -4,4 +4,4 @@
 
 [![firefox](https://img.shields.io/badge/-www.maurogarcia.com-red?style=flat-square&labelColor=red&logo=Firefox&logoColor=white&color=orange)](https://www.maurogarcia.com) 
 
-Passionate about **Vue & Swift**. Likes to write code.
+Passionate about **JavaScript & Swift**. I like to write code.
