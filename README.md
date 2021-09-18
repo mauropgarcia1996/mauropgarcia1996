@@ -1,4 +1,4 @@
-<img align="left" src="https://www.flaticon.com/svg/static/icons/svg/3571/3571892.svg" width="120">
+<img align="left" src="https://cdn-icons-png.flaticon.com/512/1356/1356479.png" width="120">
 
 [![linkedin](https://img.shields.io/badge/-@mperezgarcia-313131?style=flat-square&labelColor=blue&logo=LinkedIn&logoColor=white&color=blue)](https://www.linkedin.com/in/mperezgarcia/) 
 
