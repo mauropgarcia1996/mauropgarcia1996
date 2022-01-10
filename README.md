@@ -2,6 +2,6 @@
 
 [![linkedin](https://img.shields.io/badge/-@mperezgarcia-313131?style=flat-square&labelColor=blue&logo=LinkedIn&logoColor=white&color=blue)](https://www.linkedin.com/in/mperezgarcia/) 
 
-[![firefox](https://img.shields.io/badge/-www.maurogarcia.com-red?style=flat-square&labelColor=red&logo=Firefox&logoColor=white&color=orange)](https://maurogarcia.carrd.co/) 
+[![firefox](https://img.shields.io/badge/-https://maurogarcia.carrd.co/-red?style=flat-square&labelColor=red&logo=Firefox&logoColor=white&color=orange)](https://maurogarcia.carrd.co/) 
 
 Passionate about **JavaScript & Swift**. I like to write code.
